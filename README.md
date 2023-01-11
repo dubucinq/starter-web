@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-I am SAM. A WEB DEV
+This is a Git demo
 ## Purpose
 
 Sample website with plenty of files for demos
